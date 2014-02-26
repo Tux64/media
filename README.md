@@ -2,7 +2,7 @@ Media
 =====
 
 
-<img src="https://github.com/wetube/media/blob/master/logos/%3C%20800x800/bitcloud-official-logo.png?raw=true" height="300" alt="Bitcloud logo" width="270" title="Bitcloud logo" style="margin: 0 auto; position: relative; text-align: center;"/><img src="https://github.com/wetube/media/blob/master/wallpapers/wallpaper1.png?raw=true" height="300" alt="Bitcloud logo" title="Bitcloud logo" style="margin: 0 auto; position: relative; text-align: center;"/><img src="https://github.com/wetube/media/blob/master/logos/%3C%20800x800/bitcloud-official-logo.png?raw=true" height="300" alt="Bitcloud logo" title="Bitcloud logo" width="270" style="margin: 0 auto; position: relative; text-align: center;"/>
+<img src="https://github.com/wetube/media/blob/master/logos/%3C%20800x800/bitcloud-official-logo.png?raw=true" height="300" alt="Bitcloud logo" title="Bitcloud logo" style="margin: 0 auto; position: relative; text-align: center;"/><img src="https://github.com/wetube/media/blob/master/wallpapers/wallpaper1.png?raw=true" height="300" alt="Bitcloud logo" title="Bitcloud logo" style="margin: 0 auto; position: relative; text-align: center;"/>
 
 Here you can find Bitcloud logos, wallpapers and another media content. I'm still working on this Repositorie, but I need your help to improve this content. Any content you find, please Submit by an Issue or by a Pull request - doesn't matter if you think we already have this image, just send. 
 
